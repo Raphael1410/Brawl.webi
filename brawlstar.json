@@ -1,0 +1,86 @@
+{
+   "journal": {
+     "nomJournal": "Brawl Stars News",
+     "phraseAccroche": "Votre source d'informations sur le jeu Brawl Stars",
+     "texteAppelAction": "Inscrivez-vous pour recevoir notre newsletter et rester à jour sur les dernières nouveautés de Brawl Stars !",
+     "articlePrincipal": {
+       "titre": "Les dernières mises à jour de Brawl Stars : ce que les joueurs doivent savoir",
+       "description": "Découvrez les nouvelles fonctionnalités, les événements spéciaux et les conseils de jeu pour Brawl Stars.",
+       "date": "25 Avril 2024",
+       "theme": "Actualités de Brawl Stars",
+       "image":""
+     },
+     "articles": [
+       {
+         "titre": "Guide pour les débutants : conseils pour démarrer et progresser dans Brawl Stars",
+         "date": "20 Avril 2024",
+         "theme": "Débutants",
+         "image":""
+       },
+       {
+         "titre": "Analyse des nouveaux brawlers : leurs compétences, leurs forces et leurs faiblesses",
+         "date": "15 Avril 2024",
+         "theme": "Brawlers",
+         "image":""
+       },
+       {
+         "titre": "Top 10 des meilleures stratégies de jeu pour gagner en solo ou en équipe",
+         "date": "5 Avril 2024",
+         "theme": "Stratégies",
+         "image":""
+       },
+       {
+         "titre": "Récapitulatif des compétitions et tournois de Brawl Stars",
+         "date": "28 Mars 2024",
+         "theme": "Compétitions",
+         "image":""
+       },
+       {
+         "titre": "Les prochaines mises à jour prévues : ce que les joueurs peuvent attendre",
+         "date": "20 Mars 2024",
+         "theme": "Mises à jour",
+         "image":""
+       }
+     ],
+     "themes": [
+       {
+         "nom": "Débutants",
+         "description": "Conseils, tutoriels et guides pour les nouveaux joueurs de Brawl Stars afin de les aider à bien démarrer et à progresser dans le jeu."
+       },
+       {
+         "nom": "Brawlers",
+         "description": "Analyse détaillée des nouveaux brawlers, de leurs compétences spéciales et des meilleures façons de les jouer."
+       },
+       {
+         "nom": "Stratégies",
+         "description": "Stratégies avancées pour améliorer votre jeu, que ce soit en solo, en duo ou en équipe, avec des conseils pour chaque mode de jeu."
+       },
+       {
+         "nom": "Compétitions",
+         "description": "Couverture des compétitions, des tournois et des événements spéciaux de Brawl Stars, avec des résumés des matchs et des interviews des joueurs."
+       },
+       {
+         "nom": "Mises à jour",
+         "description": "Annonces et analyses des mises à jour récentes et à venir de Brawl Stars, y compris les nouvelles fonctionnalités, les corrections de bugs et les ajustements d'équilibrage."
+       }
+     ],
+     "auteurs": [
+       {
+         "prenom": "Alex",
+         "typeExperience": "Joueur de haut niveau",
+         "presentation": "En tant que joueur de haut niveau, je partage mes connaissances et mes stratégies pour aider les joueurs de tous niveaux à progresser dans Brawl Stars."
+       },
+       {
+         "prenom": "Emma",
+         "typeExperience": "Fan de Brawl Stars",
+         "presentation": "Passionnée de Brawl Stars, je vous tiens informés des dernières actualités et des meilleures astuces pour maximiser votre expérience de jeu."
+       },
+       {
+         "prenom": "Maxime",
+         "typeExperience": "Commentateur de compétitions eSports",
+         "presentation": "Avec une expérience dans le commentaire des compétitions eSports, je vous offre des analyses approfondies et une couverture complète des tournois de Brawl Stars."
+       }
+     ]
+   }
+ }
+ 
